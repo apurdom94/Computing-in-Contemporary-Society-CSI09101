@@ -66,7 +66,7 @@
 #### The fastest and slowest countries for broadband speed (2023)
 
 
-![Figure One](Figure1.png)
+![Figure One](/Figures/Figure1.png)
 
 - The slowest speeds are seen in developing countries (reason)
 - Fasted are in the developed world (reason)
