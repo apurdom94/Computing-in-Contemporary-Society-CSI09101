@@ -1,4 +1,4 @@
-# Computing-in-Contemporary-Society-CSI09101-
+# Computing in Contemporary Society - CSI09101
 
 Content from CCS module at Edinburgh Napier University 23/24. 
 
