@@ -6,7 +6,7 @@ Content from CCS module at Edinburgh Napier University 23/24.
 |----|---------------------------------------| -- | -- |
 |1 |    Ethics and Computer Ethics | Lecture | Reading |
 | 2|     Traditions of ethical thought | Lecture | Reading | 
-| 3|      [The Digital Divide](https://github.com/apurdom94/Computing-in-Contemporary-Society-CSI09101/blob/main/Digital%20Divide.md) | Lecture | Reading |
+| 3|      [The Digital Divide](https://github.com/apurdom94/Computing-in-Contemporary-Society-CSI09101/blob/main/Digital%20Divide.md) | [Lecture](https://github.com/apurdom94/Computing-in-Contemporary-Society-CSI09101/blob/main/Lectures/CCS%20Lecture%203%20The%20Digital%20Divide.pdf) | Reading |
 |4 |       The role of the internet in democracy | Lecture | Reading |
 |5 |Technology and its impact on working life| Lecture | Reading |
 |6 |Technology in business organisations - global supply chain | Lecture | Reading |
