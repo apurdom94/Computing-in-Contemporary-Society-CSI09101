@@ -52,8 +52,6 @@
 - In 40/84 countries less than half the population prossesses basic computer skills such as copying a file or sending an email with an attatchment 
 - Numbers were even lower when examining 'standard skills' such as basic maths formuala in excel or downloading and installing new software
 
-## Questions - maybe move to the end ##
-
 ## Internet Speeds ##
 
 - Average global broadband download speed was 9.10Mbps (30th May 17 - 29th May 18)
@@ -69,8 +67,8 @@
 ![Figure One](/Figures/Figure1.png)
 
 - The slowest speeds are seen in developing countries (reason)
-- Fasted are in the developed world (reason)
-- 
+- Faster are in the developed world (reason)
+
 ## Benifits of Digital Skills (Lloyds Bank Survey) ##
 
 - 99% of people in the UK have used the internet in some capacity in the last three months. 
@@ -80,7 +78,34 @@
 - The survey (2022) indicates that 17% of UK population cannot undertake basic "Foundation digital activities" like turning on a device, connecting to Wi-Fi, changing passwords or opening an app
 - The unemployed are twice as likley than the employed to lack digital skills - likely because a workplace will expose people to technology through things such as online learning, applying for AL however. Catch 22 - cant get job without basic computer skills but cant build them without a job
 - Offline members of the population will struggle to access public services such as the NHS, goverment services and financial service- The most digitaly capabale have saved on averahe £659 a year through online banking
-- 
+
+## Digital Engagement in the UK ##
+
+  - In Feb 2020 96& of households in GB had internet access, this is an increase from 2019 (93%) and 2006 (57%)
+  - The generation gap between older and younger users is narrorinw but age is still a good indicator of if people are online (Lloyds, 2023)
+  - People with an impairment are 25% less likely to have the skills to access devieces and get online themselves.
+
+## Digital Skills Example - Universal Credit ##
+
+- Unversal Credit replaced various benifits having one thing to claim for to make it easier
+- It can only be claimed online
+- This is an example of "Digital by Default"
+- Newspapers cited hardship owning to digital exclusion and long waits
+- Some charties offer basic online skills training, this is also provided in libararies across Scotland
+
+## Age and Digitial Exclusion - UK Example (Hu abd Qian, 2021) ##
+
+- Older people who only had virtual contact during lockdowns experinced greater loneliness and faced negitive mental health issues than older people who had no contact with others
+- Older people tend to be unfamiliar with technology and found it so stressful to learn how o use thus it was more damaging to their mental ealth than simply coping with the isolation
+
+### To Add ###
+
+- References
+- Notes from lecture recordning
+- Notes from readings
+- Figures from survey
+
+
 
 
 
