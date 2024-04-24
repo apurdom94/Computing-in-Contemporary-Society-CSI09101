@@ -66,7 +66,7 @@
 
 #### Figure One - Visual Representation of Abstracted Power (trolly problem)
 
-![Figure Two](Figure2.png)
+![Figure Two](/Figures/Figure2.png)
 
 
 ## Technological Intermediation and Computational Thinking ##
